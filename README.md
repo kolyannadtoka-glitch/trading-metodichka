@@ -1,0 +1,2 @@
+# trading-metodichka
+Trading
